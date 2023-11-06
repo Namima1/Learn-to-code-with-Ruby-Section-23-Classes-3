@@ -13,3 +13,7 @@ puts
 
 p 5.class.ancestors 
 #this pulls all levels in an array
+
+p 3.14.class.ancestors 
+p "hello".class.ancestors 
+p [].class.ancestors 
